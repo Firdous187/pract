@@ -1,0 +1,161 @@
+#heading:hover{
+    background-color:chocolate;
+    text-align: center;
+    color:rgba(157, 23, 235, 0.911);
+    border: 10px;
+    border-radius: 50px;
+    width:100%;
+}
+
+h1{
+    text-align:center;
+}
+#heading1{
+    font-size: high;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+   /* background-color:wheat;*/
+    font-family: cursive;
+}
+#para{
+    font-family: cursive;
+}
+#image{
+      width: 300;
+      height: 200px;
+      border-radius: 50px;
+      box-shadow: 10px 10px 10px gray;
+      border: 10px solid gray;
+}
+#heading2{
+        font-size: high;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+#image1{
+    width: 300;
+    height: 200px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px gray;
+    border: 10px solid gray;
+}
+#para2{
+    font-family: 'Courier New', Courier, monospace;
+}
+#heading3{
+    font-size: high;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    height: 10px;
+}
+#button{
+    background-color: black;
+    color: blue;
+}
+#reddy{
+    color: blueviolet;
+    background-color: brown;
+}
+#image2{
+    height: 300px;
+    border: 10px solid gray;
+    border-radius: 20%;
+
+}
+#dhobi{
+    display: inline-block;
+    width: 800px;
+    height: 300px;
+    overflow: auto;
+}
+
+
+#image3{
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 5px gray;
+    margin: 20px;
+    border: 30px solid gray;
+    border-radius: 50%;
+}
+#image4{
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 10px gray;
+    margin: 10px;
+    border: 30px solid gray;
+    border-radius: 20%;
+}
+#image5{
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 10px gray;
+    margin: 10px;
+    border: 30px solid gray;
+    border-radius: 20%;
+}
+#image6{
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 10px gray;
+    margin: 10px;
+    border: 30px solid gray;
+    border-radius: 20%;
+}
+#para2{ 
+    overflow: hidden;
+    width:1200px;
+    height:50px;
+    font-size: medium;
+    font-weight: 400;
+    font-family:cursive;
+}
+#para3{ 
+    overflow: scroll;
+    width:1000px;
+    height:300px;
+    font-size: medium;
+    font-weight: 400;
+    font-family:cursive;
+}
+#Sahasatrakund{
+    display:inline-block;
+    width: 800px;
+    height: 300px;
+    overflow: scroll;
+}
+#sava1{
+    width:250px;
+    height:250px;
+    box-shadow:15px 15px 15px gray;
+    border-radius: 50px;
+    margin:5%;
+    background-color: fuchsia;
+    color:black
+}
+img{
+    width:250px;
+    height:250px;
+    box-shadow:15px 15px 15px gray;
+    border-radius: 50px;
+    margin:5%;
+    background-color: fuchsia;
+    color:black
+}
+.Sava1{
+    background-color: black ;
+    color:brown
+}
+#pic1{
+    width:250px;
+    height:250px;
+    box-shadow:10px 10px 10px gray;
+    border-radius: 50px;
+    margin:5%;
+    background-color: fuchsia;
+    color:black;
+    border: 30px dotted gray;
+}
+
